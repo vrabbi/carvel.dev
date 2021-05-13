@@ -17,6 +17,10 @@ toc:
         url: /data-values-vs-overlays
       - page: Injecting secrets
         url: /injecting-secrets
+  - title: Concepts
+    subfolderitems:
+      - page: YAML and Annotations
+        url: /yaml-primer
   - title: Reference
     subfolderitems:
       - page: Language
